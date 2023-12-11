@@ -1,0 +1,23 @@
+Jaccobi 
+27 6 -1 85
+6 15 2 72
+1 1 54 110
+
+Guess Seidal 
+
+27 6 -1 85
+1 1 54 110
+6 15 2 72
+
+Rungi Kutta
+
+Enter Initial Condition
+x0 = 0
+y0 = 1
+Enter calculation point xn = 0.6
+Enter number of steps: 3
+
+Trapezoidal
+lower 4
+Upper 5.2
+
